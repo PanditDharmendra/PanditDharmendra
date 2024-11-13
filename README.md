@@ -89,6 +89,8 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanditDharmendra&layout=compact&theme=radical)
 
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=PanditDharmendra&count_private=true&show_icons=true&theme=radical&custom_title=All-Time%20Commits)
+
 ---
 
 This README provides an overview of my projects, skills, and ongoing journey. Feel free to explore my repositories and connect if you’re interested in collaboration or have similar goals. Let’s innovate and make an impact together!
