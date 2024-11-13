@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 
 | Language | Libraries & Frameworks | Tools & IDEs |
 |----------|------------------------|--------------|
-| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python, ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++, ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java | TensorFlow, PyTorch, Pygame | VS Code, Jupyter, Git |
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python, ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++, ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java | Pandas, TensorFlow, PyTorch, Pygame | VS Code, Jupyter, Git, Pycharm |
 
 - **Cybersecurity**: Burp Suite, Wireshark, Kali Linux (beginner level)
 - **Game Development Libraries**: Pygame, PyOpenGL (actively exploring)
@@ -78,6 +78,7 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 - **LinkedIn**: [Dharmendra Pandit](https://www.linkedin.com/in/dharmendrapandit)
 - **YouTube**: [Educational Channel](https://www.youtube.com/channel/YourChannel)
 - **GitHub**: [DharmendraPandit](https://github.com/YourGitHubUsername)
+- **X**: []
 
 ---
 
