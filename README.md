@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 - **YouTube**: [Educational Channel]()
 - **GitHub**: [DharmendraPandit](https://github.com/PanditDharmendra)
 - **X**: [@Dharmendradheer](https://x.com/Dharmendradheer?t=OoDzRenl51BE1-sqWAlDOw&s=03)
-- **Instagram**:[]
+- **Instagram**:[dharmendradheer](https://www.instagram.com/dharmendradheer/profilecard/?igsh=MTBtZzg1M29uN2Y1dw==)
 
 ---
 
