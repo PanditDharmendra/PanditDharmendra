@@ -89,7 +89,8 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanditDharmendra&layout=compact&theme=radical)
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=PanditDharmendra&count_private=true&show_icons=true&theme=radical&custom_title=All-Time%20Commits)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanditDharmendra&theme=radical)
+
 
 - **Commits**: ![Commits Badge](https://img.shields.io/github/commit-activity/m/PanditDharmendra/PanditDharmendra?style=flat&label=commits)
 - **Stars**: ![Stars Badge](https://img.shields.io/github/stars/PanditDharmendra/PanditDharmendra?style=social)
