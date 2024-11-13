@@ -76,9 +76,10 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Dharmendra Pandit](https://www.linkedin.com/in/dharmendra-pandit-896108314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-- **YouTube**: [Educational Channel](https://www.youtube.com/channel/YourChannel)
-- **GitHub**: [DharmendraPandit](https://github.com/YourGitHubUsername)
+- **YouTube**: [Educational Channel]()
+- **GitHub**: [DharmendraPandit](https://github.com/PanditDharmendra)
 - **X**: [@Dharmendradheer](https://x.com/Dharmendradheer?t=OoDzRenl51BE1-sqWAlDOw&s=03)
+- **Instagram**:[]
 
 ---
 
