@@ -91,6 +91,11 @@ Welcome to my GitHub profile! I'm an aspiring ethical hacker, bug bounty special
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=PanditDharmendra&count_private=true&show_icons=true&theme=radical&custom_title=All-Time%20Commits)
 
+- **Commits**: ![Commits Badge](https://img.shields.io/github/commit-activity/m/PanditDharmendra/PanditDharmendra?style=flat&label=commits)
+- **Stars**: ![Stars Badge](https://img.shields.io/github/stars/PanditDharmendra/PanditDharmendra?style=social)
+- **Forks**: ![Forks Badge](https://img.shields.io/github/forks/PanditDharmendra/PanditDharmendra?style=social)
+- **Followers**: ![Followers Badge](https://img.shields.io/github/followers/PanditDharmendra?style=social)
+
 ---
 
 This README provides an overview of my projects, skills, and ongoing journey. Feel free to explore my repositories and connect if you’re interested in collaboration or have similar goals. Let’s innovate and make an impact together!
