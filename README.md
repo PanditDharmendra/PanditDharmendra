@@ -89,7 +89,7 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanditDharmendra&layout=compact&theme=radical&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanditDharmendra&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanditDharmendra&theme=radical&fire=FF4500&ring=FFA500&currStreakNum=FFFFFF)
 
 
 - **Commits**: ![Commits Badge](https://img.shields.io/github/commit-activity/m/PanditDharmendra/PanditDharmendra?style=flat&label=commits)
