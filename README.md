@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dharmendra Pandit!
 
-Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning specialist, and AI enthusiast dedicated to solving complex problems and building secure, intelligent systems. My journey includes Python programming, machine learning, Deep learning and game development, with a goal to specialize in technologies that can make a positive impact on the world. I am continuously learning and enhancing my skill set to stay ahead in the dynamic field of technology.
+Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning specialist, and AI enthusiast dedicated to solving complex problems and building secure, intelligent systems. My journey includes Python programming, machine learning, Deep learning and game development, with a goal to specialize in technologies that can make a positive impact on the world. I am continuously learning and enhancing my skill set to stay ahead in the dynamic field of technology and Help humanity.
 
 ![Profile Picture](https://path/to/your/profile-picture.jpg)
 
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 
 - **Role**: Aspiring Software Development Specialist | ML specilist | ML, DL, and AGI 
 - **Primary Languages**: Python, C++, Java
-- **Skills**: Machine Learning, Deep Learning, Neural Networks, Game Development, Quantum Computing
-- **Goals**: Build expertise in Mechine Learning and AI, focusing on creating solutions that improve Productivity and AGI research.
+- **Skills**: Software dev, Machine Learning, Deep Learning, Neural Networks, Game Development,
+- **Goals**: Build expertise in Mechine Learning and AI, focusing on creating solutions that improve Productivity and Help Business.
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 
 ### 🐍 Python Programming Specialist
 - Mastered Python programming, covering everything from basic syntax to advanced libraries and frameworks.
-- Developed a fully-functional Python game project and completed over **1000 Python exercises** with increasing difficulty.
+- Developed a fully-functional Python game project and completed over **1000 Python exercises** with increasing difficulty with DSA.
 
 ### 🔐 Software Development.
 - Practicing Problems and continuouly developing AI driven solution and apps, website that help us to increase productivity.
@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 - Proficient in machine learning and deep learning, with a focus on creating neural networks for AI-driven applications.
 - Passionate about developing AI models that can be applied to solve real-world issues.
 
-### ⚛️ Quantum Computing & Physics Learner
-- Self-learning the foundational concepts of physics and quantum computing.
-- Helping others by providing resources and insights for quantum computing learning paths.
+ ###  🤖 Working with AIs and Agents
+ - Implementing AI Agents in Business to atomate borings stoff.( n8n, cursor and more)
+ - Helping Business to increase Productivity and Atomation.
 
 ---
 
@@ -49,13 +49,13 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 2. **Software Development**: Pursuing real-world problem solving and apps developments skills.
 3. **AI and Machine Learning Models**: Experimenting with neural network architectures and machine learning algorithms.
 4. **Game Development**: Exploring Pygame and other libraries for game development projects.
-5. **Content Creation**: Sharing insights on emerging AI and cybersecurity topics on my YouTube channel and LinkedIn.
+5. **Content Creation**: Sharing insights on emerging AI  topics on my YouTube channel and LinkedIn.
 
 ---
 
 ## 📌 Future Goals
 
-- Become Software Engineer Specilist and applying the concept of Quantum computing and AI in Apps.
+- Become Software Engineer Specilist and applying the concept of Agents and AIs in Apps.
 - Advance in AI and machine learning to a specialist level, contributing to open-source and real-world projects.
 - Develop AI-driven solutions for security and automation, applying machine learning to impactful use cases.
 - Continue sharing my knowledge and experiences with others in the tech community.
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 
 | Language | Libraries & Frameworks | Tools & IDEs |
 |----------|------------------------|--------------|
-| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python, ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++, ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java | Pandas, TensorFlow, PyTorch, Pygame | VS Code, Jupyter, Git, Pycharm |
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python, ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++, ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java | Pandas, TensorFlow, PyTorch, Pygame | VS Code, Jupyter, Git,Google cloab,cursor |
 
 - **Machine Learning and AGI**: Keras, Scikit-learn, Matplotlib (beginner to advance)
 - **Game Development Libraries**: Pygame, PyOpenGL (actively exploring)
