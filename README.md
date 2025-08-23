@@ -49,7 +49,6 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 2. **Software Development**: Pursuing real-world problem solving and apps developments skills.
 3. **AI and Machine Learning Models**: Experimenting with neural network architectures and machine learning algorithms.
 4. **Game Development**: Exploring Pygame and other libraries for game development projects.
-5. **Content Creation**: Sharing insights on emerging AI  topics on my YouTube channel and LinkedIn.
 
 ---
 
@@ -76,7 +75,6 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Dharmendra Pandit](https://www.linkedin.com/in/dharmendra-pandit-896108314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-- **YouTube**: [Educational Channel]()
 - **GitHub**: [DharmendraPandit](https://github.com/PanditDharmendra)
 - **X**: [@Dharmendradheer](https://x.com/Dharmendradheer?t=OoDzRenl51BE1-sqWAlDOw&s=03)
 - **Instagram**:[dharmendradheer](https://www.instagram.com/dharmendradheer/profilecard/?igsh=MTBtZzg1M29uN2Y1dw==)
