@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 
 <br>
 
-- **Role**: Aspiring Software Development Specialist | ML specilist | ML, DL, and AGI 
+- **Role**: Aspiring Software Development Specialist | ML specilist | ML, DL, and Agents
 - **Primary Languages**: Python, C++, Java
 - **Skills**: Software dev, Machine Learning, Deep Learning, Neural Networks, Game Development,
 - **Goals**: Build expertise in Mechine Learning and AI, focusing on creating solutions that improve Productivity and Help Business.
@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm an aspiring Machine learning, Deep learning sp
 |----------|------------------------|--------------|
 | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python, ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++, ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java | Pandas, TensorFlow, PyTorch, Pygame | VS Code, Jupyter, Git,Google cloab,cursor |
 
-- **Machine Learning and AGI**: Keras, Scikit-learn, Matplotlib (beginner to advance)
+- **Machine Learning and Agents**: Keras, Scikit-learn, Matplotlib (beginner to advance)
 - **Game Development Libraries**: Pygame, PyOpenGL (actively exploring)
 
 ---
